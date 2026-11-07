@@ -1,0 +1,3 @@
+Gravitational Waves: Binary Star Systems and Black Hole Mergers
+The initial part of this project heavily relied on a 1983 research paper by Schutz "Gravitational Waves on the back of an envelope" where he arrives at the celebrated quadrupole formula for gravitational wave strain using purely Newtonian treatment with the one exception of introducing retardation.
+In the second half of the project in Summer 2026, I rigorously studied General Relativity from scratch and arrived at the quadrupole moment formula. I saw how the choice of the Lorentz gauge conceals the true radiative degrees of freedom and how to by-pass the problem to arrive at the two polarizations of the traceless, transverse metric perturbation: the plus and cross polarizations. 
